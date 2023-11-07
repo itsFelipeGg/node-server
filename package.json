@@ -1,0 +1,15 @@
+{
+  "name": "lista-de-tarea-node",
+  "version": "1.0.0",
+  "description": "Lista de trea de Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Carlos Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
